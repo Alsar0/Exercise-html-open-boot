@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <h3>Ejercicio 02/2 - Tablas en HTML</h3>
+        <table>
+            <tr>
+                <th>Titulo</th>
+                <th>Autor</th>
+                <th>Anio de publicacion</th>
+                <th>Enlace a Amazon</th> 
+            </tr>
+            <tr>
+                <td>El olvido que seremos</td>
+                <td>Hector Abad Faciolince</td>
+                <td>2011</td>
+                <td><a href="https://www.amazon.com/s?k=el+olvido+que+seremos&i=stripbooks&language=es_US&adgrpid=101641913443&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTF4BSFodIKpZ5RD9a5zqilfPM6K30SAHxoxf3vrwkQRmqnzdlUDORMaAm_EEALw_wcB&hvadid=602412654168&hvdev=c&hvlocphy=1003654&hvnetw=g&hvqmt=b&hvrand=5992384957535114714&hvtargid=kwd-299516617830&hydadcr=13241_13442554&tag=googleuscolom-20&ref=pd_sl_5w54rt8x1t_b">El olvido que seremos</a></td>
+            </tr>
+            <tr>
+                <td>La sombra de orion</td>
+                <td>Pablo Montoya</td>
+                <td>2021</td>
+                <td><a href="https://www.amazon.com/-/es/Pablo-Montoya-ebook/dp/B08WJQPHBF/ref=sr_1_1?__mk_es_US=ÅMÅŽÕÑ&crid=1QI9IUBG1YBR3&keywords=la+sombra+de+orion&qid=1658673970&s=books&sprefix=la+sombra+de+orion%2Cstripbooks-intl-ship%2C102&sr=1-1">La sombra de orion</a></td>
+            </tr>
+            <tr>
+                <td>The trial</td>
+                <td>Frank Kafka</td>
+                <td>2010</td>
+                <td><a href="https://www.amazon.com/-/es/Franz-Kafka/dp/1451578644/ref=sr_1_13?keywords=franz+kafka&qid=1658674669&s=books&sprefix=fran%2Cstripbooks-intl-ship%2C190&sr=1-13">The trial</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
